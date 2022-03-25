@@ -1,11 +1,12 @@
 {
   "name": "employee-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "server with employee database",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Omolara",
   "license": "ISC"
 }
