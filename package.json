@@ -1,7 +1,7 @@
 {
-  "name": "employee-server",
+  "name": "admin-dashboard-server",
   "version": "1.0.0",
-  "description": "server with employee database",
+  "description": "server with employee and todo database",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
